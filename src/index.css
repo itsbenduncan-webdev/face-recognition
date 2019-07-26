@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+  background: linear-gradient(90deg, rgba(214,79,152,1) 0%, rgba(121,150,255,1) 49%, rgba(17,209,189,1) 100%);
+}
+
+button {
+  cursor: pointer;
+}
